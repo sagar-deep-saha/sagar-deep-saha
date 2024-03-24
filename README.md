@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java , React , Spring , .net**
 
-- 📫 How to reach me **deepsaha01896@gmail.com**
+- 📫 How to reach me **sagarsaha**
 
 - ⚡ Fun fact **I am Funny😅**
 
