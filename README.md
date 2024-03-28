@@ -4,3 +4,8 @@
 - HTML/CSS
 - Git
 - VS Code
+- Java
+- PHP
+- C
+- C++
+- Apache
