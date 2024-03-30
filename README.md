@@ -2,62 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bio</title>
     <style>
-        /* Internal CSS */
         body {
             font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            text-align: center;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
         }
-        img {
-            max-width: 100%;
-            height: auto;
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
             border-radius: 10px;
-            margin-top: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         table {
-            margin: 20px auto;
+            width: 100%;
             border-collapse: collapse;
-            width: 80%;
         }
         th, td {
             padding: 10px;
-            border: 1px solid #ddd;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
         }
         th {
             background-color: #f2f2f2;
         }
     </style>
-    <title>My Dog's Bio</title>
 </head>
 <body>
-    <h1>Meet My Adorable Dog</h1>
-    <img src="https://example.com/dog-image.jpg" alt="Cute Dog">
-
-    <h2>Bio</h2>
-    <table>
-        <tr>
-            <th>Attribute</th>
-            <th>Information</th>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Rover</td>
-        </tr>
-        <tr>
-            <td>Breed</td>
-            <td>Golden Retriever</td>
-        </tr>
-        <tr>
-            <td>Age</td>
-            <td>3 years</td>
-        </tr>
-        <tr>
-            <td>Hobbies</td>
-            <td>Chasing squirrels, belly rubs</td>
-        </tr>
-    </table>
+    <div class="container">
+        <h1>My Bio</h1>
+        <table>
+            <tr>
+                <th>Attribute</th>
+                <th>Information</th>
+            </tr>
+            <tr>
+                <td><p>Name</p></td>
+                <td><p>John Doe</p></td>
+            </tr>
+            <tr>
+                <td><p>Age</p></td>
+                <td><p>30</p></td>
+            </tr>
+            <tr>
+                <td><p>Occupation</p></td>
+                <td><p>Web Developer</p></td>
+            </tr>
+            <tr>
+                <td><p>Hobbies</p></td>
+                <td><p>Coding, hiking, reading</p></td>
+            </tr>
+        </table>
+    </div>
 </body>
 </html>
