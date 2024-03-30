@@ -34,7 +34,7 @@
 </head>
 <body>
     <h1>Meet My Adorable Dog</h1>
-    <img src="https://image.petmd.com/files/styles/863x625/public/CANS_dogsmiling_379727605.jpg?w=1920&q=75" alt="Cute Dog">
+    <img src="https://example.com/dog-image.jpg" alt="Cute Dog">
 
     <h2>Bio</h2>
     <table>
