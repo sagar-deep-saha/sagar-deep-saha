@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="https://image.petmd.com/files/styles/863x625/public/CANS_dogsmiling_379727605.jpg?w=1920&q=75" alt="Cute Dog">
+<!--         <img src="https://image.petmd.com/files/styles/863x625/public/CANS_dogsmiling_379727605.jpg?w=1920&q=75" alt="Cute Dog"> -->
         <h1>My Bio</h1>
         <table>
             <tr>
