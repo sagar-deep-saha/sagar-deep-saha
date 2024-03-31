@@ -16,11 +16,11 @@
             </tr>
             <tr>
                 <td><p>Name</p></td>
-                <td><p>John Doe</p></td>
+                <td><p>Sagar Deep Saha</p></td>
             </tr>
             <tr>
                 <td><p>Age</p></td>
-                <td><p>30</p></td>
+                <td><p>22-28</p></td>
             </tr>
             <tr>
                 <td><p>Occupation</p></td>
@@ -28,7 +28,7 @@
             </tr>
             <tr>
                 <td><p>Hobbies</p></td>
-                <td><p>Coding, hiking, reading</p></td>
+                <td><p>Coding, Sketching, Reading</p></td>
             </tr>
         </table>
     </div>
