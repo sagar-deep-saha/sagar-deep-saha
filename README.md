@@ -9,13 +9,13 @@
         src="https://komarev.com/ghpvc/?username=officialdeepsaha&label=Profile%20views&color=0e75b6&style=flat"
         alt="officialdeepsaha" /> </p>
 
-- 🌱 I’m currently learning ** ReactJS **
+- 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at Linked In and Github
+- 📑 All of my projects are available at Linked In and Github
 
-- 💬 Ask me about ** React , PHP , MySQL **
+- 💬 Ask me about **JavaScript , PHP , MySQL**
 
-- 📫 How to reach me **sagarsaha@outlook.in**
+- 📧 How to reach me **sagarsaha@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
