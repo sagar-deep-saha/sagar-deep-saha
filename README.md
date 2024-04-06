@@ -33,9 +33,8 @@
             <tr>
                 <td><p>Projects on Live</p></td>
                 <td>
-                    <p>ghosttimes.empnode.com</p>
-                <br>
-                    <p>codefalcon.empnode.com</p>
+                    <p>https://ghosttimes.empnode.com</p>
+                    <p>http://codefalcon.empnode.com</p>
                 </td>
             </tr>
         </table>
