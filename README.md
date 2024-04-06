@@ -30,6 +30,14 @@
                 <td><p>Hobbies</p></td>
                 <td><p>Coding, Sketching, Reading</p></td>
             </tr>
+            <tr>
+                <td><p>Projects on Live</p></td>
+                <td>
+                    <p>ghosttimes.empnode.com</p>
+                <br>
+                    <p>codefalcon.empnode.com</p>
+                </td>
+            </tr>
         </table>
     </div>
 </body>
