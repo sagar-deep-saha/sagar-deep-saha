@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📑 All of my projects are available at Linked In and Github
+- 📑 All of my projects are available at LinkedIn and GitHub
 
 - 💬 Ask me about **JavaScript , PHP , MySQL**
 
