@@ -31,7 +31,7 @@
     <a href="https://www.hackerrank.com/sagar_saha/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="sagar_saha" height="30" width="40" /></a>
-    <a href="https://www.replit.com/sagar-saha/" target="blank"><img align="center"
+    <a href="https://www.replit.com/@sagar-saha/" target="blank"><img align="center"
             src="https://avatars.githubusercontent.com/u/983194"
             alt="sagar-saha" height="30" width="40" /></a>
 </p>
