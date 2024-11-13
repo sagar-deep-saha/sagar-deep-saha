@@ -9,7 +9,7 @@
         src="https://komarev.com/ghpvc/?username=officialdeepsaha&label=Profile%20views&color=0e75b6&style=flat"
         alt="officialdeepsaha" /> </p>
 
-- 📈 I’m currently learning **ReactJS**
+- 📈 I’m currently learning **Laravel**
 
 - 📑 All of my projects are available at LinkedIn and GitHub
 
