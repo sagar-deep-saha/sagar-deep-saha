@@ -15,7 +15,7 @@
 
 - 🗨️ Ask me about **JavaScript , PHP , MySQL**
 
-- 📧 How to reach me **sagarsaha@outlook.in**
+- 📧 How to reach me **mail.sagarsaha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
