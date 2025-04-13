@@ -92,11 +92,11 @@
 </p>
 
 <span>
-<p><img align="left" style="height:175px;width:300px"
+<p><img align="left" style="height:175px;width:42%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-deep-saha&show_icons=true&locale=en&layout=compact"
         alt="sagar-deep-saha" /></p>
         
-<p>&nbsp;<img align="right" style="height:175px;width:300px"
+<p>&nbsp;<img align="right" style="height:175px;width:42%"
         src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&locale=en"
         alt="sagar-deep-saha" /></p>
 </span>
