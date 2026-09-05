@@ -10,13 +10,13 @@
         src="https://komarev.com/ghpvc/?username=sagardeepsaha&label=Profile%20views&color=0e75b6&style=flat"
         alt="sagar-deep-saha" /> </p>
 
-- 📈 I’m currently learning **Laravel**
+-  I’m currently learning **Laravel Ecosystem**
 
-- 📑 All of my projects are available at **LinkedIn** and **GitHub**
+-  All of my projects are available at **LinkedIn** and **GitHub**
 
-- 🗨️ Ask me about **JavaScript , PHP , MySQL**
+-  Ask me about **PHP ,Laravel , MySQL**
 
-- 📧 How to reach me **linked.in/sagar-deep-saha**
+-  How to reach me **linked.in/sagar-deep-saha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -92,14 +92,14 @@
 </p>
 
 <span>
-<p><img align="left" style="height:185px;"
+<!-- <p><img align="left" style="height:185px;"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-deep-saha&show_icons=true&locale=en&layout=compact"
-        alt="sagar-deep-saha" /></p>
+        alt="sagar-deep-saha" /></p> -->
         
-<p>&nbsp;<img align="right" style="height:185px;"
+<!-- <p>&nbsp;<img align="right" style="height:185px;"
         src="https://github-readme-stats.vercel.app/api?username=sagar-deep-saha&show_icons=true&locale=en"
         alt="sagar-deep-saha" /></p>
-</span>
+</span> -->
 
 
 <!-- <p>&nbsp;<img align="center" style=""
